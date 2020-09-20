@@ -38,25 +38,25 @@
 
 # software binary files
 
-/*
-!/*.gitignore
-!/software
-!/Lab 3 NIOS 2 Processor Screenshots
-!**/*.qsys
+#/*
+#!/*.gitignore
+#!/software
+#!/Lab 3 NIOS 2 Processor Screenshots
+#!**/*.qsys
 ##
-!*.qpf
-!*.qsf
-!*.qws
-!*.bdf
-!*.vhd
-!*.v
-!*.ptf
-!*.bsf
-!**/class.ptf
-!*.tbd
-!*.sof
+#!*.qpf
+#!*.qsf
+#!*.qws
+#!*.bdf
+#!*.vhd
+#!*.v
+#!*.ptf
+#!*.bsf
+#!**/class.ptf
+#!*.tbd
+#!*.sof
 ## tbd
 
-!*.tcl
+#!*.tcl
 
 # End of https://www.toptal.com/developers/gitignore/api/alteraquartusii

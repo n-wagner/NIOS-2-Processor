@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Thu Sep 17 19:57:13 2020
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+Revision Name : NIOSProcessor
+Top-level Entity Name : NIOSProcessorLab
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 1940
+Total pins : 1
+Total virtual pins : 0
+Total block memory bits : 95,552
+Total DSP Blocks : 2
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0
